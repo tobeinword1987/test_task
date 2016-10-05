@@ -15,7 +15,7 @@ If you do not have yet, please refer to https://getcomposer.org/
 3) You need MySql database server.
 If you do not have yet, please refer to https://www.mysql.com/
 
-3) Create database "database_name"
+4) Create database "database_name"
 
 #### Run
 
